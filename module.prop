@@ -1,0 +1,6 @@
+id=adb_wifi_boot
+name=ADB WiFi Boot (adbwifi)
+version=v1.0
+versionCode=1
+author=Asen
+description=Starts ADB over WiFi (TCP port 5555) at every boot, no USB needed. Connect from PC with: adb connect <phone-ip>:5555
